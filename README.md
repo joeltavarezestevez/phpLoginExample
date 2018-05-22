@@ -2,9 +2,7 @@
 
 This is an example of a Simple PHP Login connected with a MySQL Database.
 
-This example include the use of sessions control with PHP and Session expiring.
-
-Also includes how to block 
+This example include the use of sessions control with PHP and session expiring.
 
 ## Getting Started
 
